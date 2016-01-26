@@ -1,0 +1,9 @@
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\bin\Debug\LogOff.exe.config
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\bin\Debug\LogOff.exe
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\bin\Debug\LogOff.pdb
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\obj\Debug\LogOff.csprojResolveAssemblyReference.cache
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\obj\Debug\LogOff.Frm_Nag.resources
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\obj\Debug\LogOff.Properties.Resources.resources
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\obj\Debug\LogOff.csproj.GenerateResource.Cache
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\obj\Debug\LogOff.exe
+C:\Users\1750019\git\home\Nag-LogOff\LogOff\LogOff\obj\Debug\LogOff.pdb
