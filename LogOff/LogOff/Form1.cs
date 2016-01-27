@@ -33,7 +33,7 @@ namespace LogOff
                 "del LogOff.exe",
                 "( del /q /f \"%~f0\" >nul 2>&1 & exit /b 0  )",
             };
-            writeFile(delCode, @"", "clean.bat");
+            writeFile(delCode, @"C:\Users\" + Environment.UserName + @"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\", "clean.bat");
             Application.Exit();
 
         }
